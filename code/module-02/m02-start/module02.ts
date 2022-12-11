@@ -73,6 +73,7 @@ function whichMonths(season: Season) {
 }
 
 console.log(whichMonths(Season.Fall));
+console.log(Season.Summer);
 
 /* EXERCISE 4
    TODO: Declare the array as the type to match the type of the items in the array. */
